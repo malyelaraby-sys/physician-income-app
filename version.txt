@@ -1,0 +1,6 @@
+v1.0 STABLE
+
+✅ PDF generation working
+✅ Arabic formatting correct
+✅ logos + watermark applied
+✅ deployed online
